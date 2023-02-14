@@ -1,0 +1,7 @@
+! dlpno-ccsd(t) cc-pvdz cc-pvdz/c cc-pvtz/jk rijk verytightscf TightPNO
+
+*xyz 0 1
+  C      0.181852    0.072684    0.206196
+  H      1.068934    0.007009   -0.462036
+  H     -0.147563    1.121833    0.037099
+*
